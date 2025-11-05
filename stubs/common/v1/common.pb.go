@@ -73,7 +73,7 @@ const file_stubs_common_v1_common_proto_rawDesc = "" +
 	"\n" +
 	"\x1cstubs/common/v1/common.proto\x12\tcommon.v1\"!\n" +
 	"\x05Error\x12\x18\n" +
-	"\amessage\x18\x01 \x01(\tR\amessageB*Z(ai_grpc_go_client/stubs/common/v1;commonb\x06proto3"
+	"\amessage\x18\x01 \x01(\tR\amessageB?Z=github.com/yixin8875/ai-grpc-go-client/stubs/common/v1;commonb\x06proto3"
 
 var (
 	file_stubs_common_v1_common_proto_rawDescOnce sync.Once

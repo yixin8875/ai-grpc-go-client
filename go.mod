@@ -1,4 +1,4 @@
-module ai_grpc_go_client
+module github.com/yixin8875/ai-grpc-go-client
 
 go 1.24.9
 

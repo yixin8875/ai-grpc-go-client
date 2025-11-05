@@ -9,7 +9,7 @@
 package agent
 
 import (
-	v1 "ai_grpc_go_client/stubs/common/v1"
+	v1 "github.com/yixin8875/ai-grpc-go-client/stubs/common/v1"
 	protoreflect "google.golang.org/protobuf/reflect/protoreflect"
 	protoimpl "google.golang.org/protobuf/runtime/protoimpl"
 	reflect "reflect"
@@ -647,7 +647,7 @@ const file_stubs_aibot_services_v1_agent_proto_rawDesc = "" +
 	"\vFinalResult\x12\x18\n" +
 	"\asummary\x18\x01 \x01(\tR\asummary2g\n" +
 	"\fAgentService\x12W\n" +
-	"\bConverse\x12\".aibot.services.agent.v1.UserEvent\x1a#.aibot.services.agent.v1.AIResponse(\x010\x01B1Z/ai_grpc_go_client/stubs/aibot/services/v1;agentb\x06proto3"
+	"\bConverse\x12\".aibot.services.agent.v1.UserEvent\x1a#.aibot.services.agent.v1.AIResponse(\x010\x01BFZDgithub.com/yixin8875/ai-grpc-go-client/stubs/aibot/services/v1;agentb\x06proto3"
 
 var (
 	file_stubs_aibot_services_v1_agent_proto_rawDescOnce sync.Once

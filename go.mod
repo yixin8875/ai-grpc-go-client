@@ -1,6 +1,8 @@
 module github.com/yixin8875/ai-grpc-go-client
 
-go 1.24.9
+go 1.24.0
+
+toolchain go1.24.9
 
 require (
 	google.golang.org/grpc v1.76.0
